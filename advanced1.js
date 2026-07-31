@@ -10,7 +10,6 @@
 // console.log(new Set(numbers));
 
 
-
 // TYPE: 2
 // Create an empty array unique.
 // Loop through each element of numbers.
