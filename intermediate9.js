@@ -1,3 +1,4 @@
+// JUNAYED HASAN
 // 9. Given an array of numbers, calculate and log the total sum, using a loop.
 
 let arr = [1,2,3,4,5,6,7,8,9,10];

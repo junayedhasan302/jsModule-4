@@ -1,3 +1,4 @@
+// JUNAYED HASAN
 // 4. Check two variables (one array, one not) and log whether each is an array.
 // Expected: true then false, or false then true depending on order
 

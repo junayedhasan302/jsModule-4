@@ -1,3 +1,4 @@
+// JUNAYED HASAN
 // 7. Sort an array of numbers in ascending order, keeping numeric order correct (not string order).
 
 // Sorting strings: array.sort();

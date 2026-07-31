@@ -1,3 +1,4 @@
+// JUNAYED HASAN
 // 12. Loop through the array with a while loop and log each item.
 let fruits = ["Apple", "Banana", "Orange", "Mango"];
 

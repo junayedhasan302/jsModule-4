@@ -1,3 +1,4 @@
+// JUNAYED HASAN
 // 8. Given an array of numbers, log only the values greater than 10, using a loop.
 let arr = [10,50,2,8,9,7,55,14,25,98,36];
 
