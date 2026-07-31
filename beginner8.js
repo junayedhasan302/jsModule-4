@@ -1,3 +1,4 @@
+// JUNAYED HASAN
 // 8. Remove the first item from the array. Log the array and the removed value.
 
 
