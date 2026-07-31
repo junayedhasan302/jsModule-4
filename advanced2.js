@@ -9,8 +9,6 @@ for (let i = 0; i < arr.length; i++) {
     } else {
         numbers.push(arr[i]);
     }
-
 }
-
 console.log(strings);
 console.log(numbers);
