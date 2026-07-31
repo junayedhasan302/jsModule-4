@@ -1,3 +1,4 @@
+// JUNAYED HASAN
 // 6. Remove the last item from the array. Log the array and the removed value.
 
 
