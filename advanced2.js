@@ -1,5 +1,5 @@
 // 2. Given an array of mixed values (numbers and strings), separate them into two arrays and log both.
-
+// JUNAYED HASAN
 let arr = [10, "Apple", 20, "Banana", 30, "Orange"];
 let numbers = [];
 let strings = [];
