@@ -1,3 +1,4 @@
+// JUNAYED HASAN
 // 2. Log the length of the array from Task 1.
 // Expected: 3
 
